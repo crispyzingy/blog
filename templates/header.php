@@ -1,5 +1,5 @@
 <head>
-	<title>Blogstar</title>
+	<title>Blogstarr</title>
 	<!-- Compiled and minified CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 	<style type="text/css">
@@ -30,7 +30,7 @@
 <body class=" light-green lighten-5">
 	<nav class="cyan darken-4 z-depth-0">
 		<div class="container">
-			<a href="index.php" class="brand-logo brand-text">Blogstar</a>
+			<a href="index.php" class="brand-logo brand-text">Blogstarr</a>
 			<ul id="nav-mobile" class="right hide-on-small-and-down">
 				<li><a href="add.php" class="btn brand z-depth-0">Add a post</a></li>
 			</ul>
