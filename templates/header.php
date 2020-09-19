@@ -33,6 +33,8 @@
 			<a href="index.php" class="brand-logo brand-text">Blogstarr</a>
 			<ul id="nav-mobile" class="right hide-on-small-and-down">
 				<li><a href="add.php" class="btn brand z-depth-0">Add a post</a></li>
+				<li><a href="login.php" class="btn brand z-depth-0">Login</a></li>
+				<li><a href="signup.php" class="btn brand z-depth-0">Sign Up</a></li>
 			</ul>
 		</div>
 	</nav>
